@@ -1,8 +1,8 @@
 {
   "name": "AcousticPanel",
   "description": "Equalize and chain VSTs and AUs on real-time audio in macOS",
-  "technologies": ["Swift", "CoreAudio"],
-  "platforms": ["macOS"],
+  "technologies": ["swift", "coreaudio"],
+  "platforms": ["macos"],
   "features": {
     "Audio Routing": "Route audio to and from any application on your Mac, and output to any audio device",
     "Audio Effects": "Add any VST or AU plugin to your audio chain",
